@@ -1,5 +1,5 @@
 # CG-Project
-
+Audio Waveform Visualizer built for Computer Graphics Project
 # Submitted By
   <li>
   Kushagra Gupta - 2K19/CO/203
