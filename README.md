@@ -7,3 +7,7 @@ Audio Waveform Visualizer built for Computer Graphics Project
   <li>
   Jatin Kansal - 2K19/CO/174
   </li>
+  <li>
+  Krishanu Kashyap - 2K19/CO/193
+  </li>
+
